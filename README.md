@@ -1,2 +1,1 @@
-# html-empty-file
-HTML File without content
+En este proyecto se pondrá en practica el design pattern Required fields / campos requeridos, mediante un formulario básico el cual no permitirá ser enviado hasta que llenes por lo menos los campos de nombre y matricula 
